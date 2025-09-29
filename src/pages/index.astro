@@ -31,7 +31,7 @@ const { Content } = latestPost ? await latestPost.render() : { Content: null };
             </div>
           </div>
           <article class="prose prose-neutral dark:prose-invert max-w-none">
-            <Content />
+            {Content && <Content />}
           </article>
         </section>
       )}
