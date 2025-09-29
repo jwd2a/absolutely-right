@@ -11,10 +11,10 @@ How do you do it?
 
 One good way is to decompose the project into multiple chunks. For example, I'm launching this blog with this post. There are a few things that need to get done to make this happen:
 
-[ ] Set up a repo on github to serve the blog from
-[ ] Register the domain
-[ ] Point the domain at the github repo
-[ ] Write the first post and push to git to publish
+- Set up a repo on github to serve the blog from
+- Register the domain
+- Point the domain at the github repo
+- Write the first post and push to git to publish
 
 All of these can be done without me being blocked by anyone, since I'm working on it myself. **Except** all the DNS/domain stuff. That can take some time to propagate, and since I just gave myself an hour to work on this today, I don't want to spend all that time waiting.
 
