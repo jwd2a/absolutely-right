@@ -9,8 +9,8 @@ export const SITE: Site = {
 };
 
 export const HOME: Metadata = {
-  TITLE: "Absolutely Right - AI, Product, Technology and Weed",
-  DESCRIPTION: "Absolutely right is a blog by Justin Davis. Posts about AI, product, technology and weed.",
+  TITLE: "Absolutely Right - AI, Product, Technology, Philosophy.",
+  DESCRIPTION: "Absolutely right is a blog by Justin Davis. Posts about AI, product, technology and other random thoughts.",
 };
 
 export const BLOG: Metadata = {
