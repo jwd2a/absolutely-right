@@ -15,6 +15,6 @@ One interesting thing to notice: I cleared the context right before running this
 
 Content window management is *so important* in productive AI workflows and agentic coding, and being able to see this is really helpful. 
 
-I really love the [Frequent Intentional Compaction ](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md)method that [Dex](https://www.linkedin.com/in/dexterihorthy/) at [HumanLayer](www.humanlayer.dev) talks about, and I've used it a handful of times to really great success. 
+I really love the [Frequent Intentional Compaction ](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md)method that [Dex](https://www.linkedin.com/in/dexterihorthy/) at [HumanLayer](https://www.humanlayer.dev) talks about, and I've used it a handful of times to really great success. 
 
 Content management is really important, and being able to see this visually in Claude Code helps to show what you're really working with. Since context is the only thing that AIs have to go on in order to solve your *particular* problems, learning to do this well is worth the investment. 
