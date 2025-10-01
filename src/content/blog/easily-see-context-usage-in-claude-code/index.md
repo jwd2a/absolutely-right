@@ -9,7 +9,7 @@ I was messing around with various options in Claude Code today, and came across 
 
 If you haven't used it, it's pretty cool - it shows your context usage visually in the command line:
 
-![[Pasted image 20250930220213.png]]
+![[https://picshift.io/i/vmzrdtdVWbsfM_Ka7Zr1W.png]]
 
 One interesting thing to notice: I cleared the context right before running this, and still, only 47% of the context window is available to me. (Presumably, the other 22.5% that's reserved is also semi-available to me via compaction to some degree, but not all of it, I'd imagine.)
 
