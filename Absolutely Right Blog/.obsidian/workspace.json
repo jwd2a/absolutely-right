@@ -20,24 +20,23 @@
               "icon": "lucide-file",
               "title": "Rule 1 For Building Quickly"
             }
-          }
-        ]
-      },
-      {
-        "id": "3644308a3f180a93",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "1fc4ad4dbf7e557a",
+            "id": "29e9b5075ac12a00",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "The Value of Overcorrecting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Value of Overcorrecting"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rule 1 For Building Quickly.md",
+                "file": "The Value of Overcorrecting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rule 1 For Building Quickly"
+              "title": "Backlinks for The Value of Overcorrecting"
             }
           },
           {
@@ -129,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rule 1 For Building Quickly.md",
+                "file": "The Value of Overcorrecting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Rule 1 For Building Quickly"
+              "title": "Outgoing links from The Value of Overcorrecting"
             }
           },
           {
@@ -158,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rule 1 For Building Quickly.md",
+                "file": "The Value of Overcorrecting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rule 1 For Building Quickly"
+              "title": "Outline of The Value of Overcorrecting"
             }
           }
         ]
@@ -185,8 +184,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "d2cd7186645dac6d",
+  "active": "29e9b5075ac12a00",
   "lastOpenFiles": [
+    "The Value of Overcorrecting.md",
     "Rule 1 For Building Quickly.md"
   ]
 }
