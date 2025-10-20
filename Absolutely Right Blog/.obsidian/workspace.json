@@ -48,9 +48,37 @@
               "icon": "lucide-file",
               "title": "How Can You Be Excited At a Time Like This?"
             }
+          },
+          {
+            "id": "c20b081e94a62960",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Speed Matters Even More Now.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Speed Matters Even More Now"
+            }
+          },
+          {
+            "id": "04efcbcbe14229fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Claude Skill for Generating Style Guides from Websites.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Claude Skill for Generating Style Guides from Websites"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How Can You Be Excited At a Time Like This?.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How Can You Be Excited At a Time Like This?"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -142,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How Can You Be Excited At a Time Like This?.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from How Can You Be Excited At a Time Like This?"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -171,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How Can You Be Excited At a Time Like This?.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How Can You Be Excited At a Time Like This?"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -198,9 +226,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "be8c6b8605fab6c4",
+  "active": "04efcbcbe14229fb",
   "lastOpenFiles": [
+    "A Claude Skill for Generating Style Guides from Websites.md",
+    "Speed Matters Even More Now.md",
+    "Untitled 1.md",
     "How Can You Be Excited At a Time Like This?.md",
+    "Untitled.md",
     "The Value of Overcorrecting.md",
     "Rule 1 For Building Quickly.md"
   ]
