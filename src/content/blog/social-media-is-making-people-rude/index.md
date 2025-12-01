@@ -1,6 +1,6 @@
 ---
-title: "Social media is making people rude""
-description: "We've created a culture where forcing your entertainment on others in public is now the norm. That sucks.""
+title: "Social media is making people rude"
+description: "We've created a culture where forcing your entertainment on others in public is now the norm. That sucks."
 date: "Dec 1 2025"
 draft: false
 ---
