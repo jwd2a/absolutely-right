@@ -1,6 +1,6 @@
 ---
 title: "How to Make a Friendly Cat"
-description: "Cats can be configured to be friendly!
+description: "Cats can be configured to be friendly!"
 date: "Dec 12 2025"
 draft: false
 ---
